@@ -48,7 +48,7 @@ to include any CVE that is not included below:
 | firefox | [CVE-2014-1580](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-1580) | NA |
 | firefox | [CVE-2014-8637](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8637) | NA |
 | bash | [CVE-2014-6277](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6277) | NA |
-| bash | [CVE-2014-6278](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6278) | [ob/master/modules/auxiliary/scanner/http/apache_mod_cgi_bash_env.rb](scanner),[ob/master/modules/exploits/multi/http/apache_mod_cgi_bash_env_exec.rb](exploit1),[ob/master/modules/exploits/multi/http/cups_bash_env_exec.rb](exploit2) |
+| bash | [CVE-2014-6278](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6278) | [scanner](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/http/apache_mod_cgi_bash_env.rb),[exploit1](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/apache_mod_cgi_bash_env_exec.rb),[exploit2](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/cups_bash_env_exec.rb) |
 | flash | [CVE-2015-0329](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-0329) | NA |
 | flash | [CVE-2015-0323](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-0323) | NA |
 | mutt | [CVE-2014-9116](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-9116) | NA |
