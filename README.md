@@ -12,7 +12,7 @@ Because CVE descriptions are not generally being written to mention AFL as the
 tool that enabled particular bugs to be found. his is primarily due to the fact
 that CVE descriptions do not require the underlying discovery tool or technique
 to be disclosed. Nor should it necessarily - many security researchers have their
-own methods, and it might hurt the vulnerablity reporting process if researchers
+own methods, and it might hurt the vulnerability reporting process if researchers
 were required to disclose such techniques. Further, most security researchers do
 acknowledge AFL in some form (twitter post, afl-users mailing list, etc.) when
 it finds a bug, and `afl-cve` attempts to track this more formally.
@@ -20,7 +20,7 @@ it finds a bug, and `afl-cve` attempts to track this more formally.
 ## Fuzzing Revisited
 AFL has discovered a huge number of bugs in all sorts of projects from compilers
 to image processing libraries. Many of these bugs have been assigned a CVE number,
-and this is at least a tacit acknowledgement of potential exploitability. So, the
+and this is at least a tacit acknowledgment of potential exploitability. So, the
 bugs AFL has found are therefore frequently *important* for anyone concerned about
 security. AFL seems to be succeeding where other fuzzers have failed, or at least
 not been generally embraced or operationalized by the security community for
