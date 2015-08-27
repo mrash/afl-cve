@@ -9,7 +9,7 @@ this list either already have a CVE assigned, or a CVE has been requested from a
 
 ## Why is This Necessary?
 Because CVE descriptions are not generally being written to mention AFL as the
-tool that enabled particular bugs to be found. his is primarily due to the fact
+tool that enabled particular bugs to be found. This is primarily due to the fact
 that CVE descriptions do not require the underlying discovery tool or technique
 to be disclosed. Nor should it necessarily - many security researchers have their
 own methods, and it might hurt the vulnerability reporting process if researchers
@@ -29,7 +29,7 @@ the most CVE's. Is there a different fuzzing project that comes close to AFL in
 terms of the number of vulnerabilities found? It would be instructive to see
 which fuzzer comes in second place and by how much.
 
-## The CVE's
+## The Vulnerabilities
 This is likely a partial list, but please send a pull request or contact me below
 to include any CVE that is not included below:
 
