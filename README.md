@@ -35,35 +35,35 @@ to include any CVE that is not included below:
 
 | Project / Software | CVE Number | Metasploit |
 | ------------------ | ---------- | ---------- |
-| bash | [CVE-2014-6277](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6277) | NA |
-| bash | [CVE-2014-6278](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6278) | [scanner](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/http/apache_mod_cgi_bash_env.rb),[exploit1](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/apache_mod_cgi_bash_env_exec.rb),[exploit2](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/cups_bash_env_exec.rb) |
-| libjpeg | [CVE-2013-6629](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2013-6629) | NA |
-| libpng | [CVE-2014-9495](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-9495) | NA |
-| BIND | [CVE-2015-5477](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-5477) | NA |
-| Xerces-C | [CVE-2015-0252](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-0252) | NA |
-| ImageIO | [CVE-2015-5781](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-5781) | NA |
-| ImageIO | [CVE-2015-5782](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-5782) | NA |
-| libtiff | [CVE-2014-8127](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8127) | NA |
-| libtiff | [CVE-2014-8128](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8128) | NA |
-| libtiff | [CVE-2014-8129](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8129) | NA |
-| firefox | [CVE-2014-1564](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-1564) | NA |
-| firefox | [CVE-2014-1580](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-1580) | NA |
-| firefox | [CVE-2014-8637](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8637) | NA |
-| flash | [CVE-2015-0329](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-0329) | NA |
-| flash | [CVE-2015-0323](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-0323) | NA |
-| mutt | [CVE-2014-9116](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-9116) | NA |
-| gnutls | [CVE-2014-8564](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8564) | NA |
-| clamav | [CVE-2015-1463](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-1463) | NA |
-| X.org | [CVE-2015-1803](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-1803) | NA |
-| X.org | [CVE-2015-1803](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-1803) | NA |
-| libwmf | [CVE-2015-0848](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-0848) | NA |
-| libwmf | [CVE-2015-4695](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-4695) | NA |
-| libwmf | [CVE-2015-4696](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-4696) | NA |
-| tidy | [CVE-2015-5522](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-5522) | NA |
-| tidy | [CVE-2015-5523](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-5523) | NA |
-| patch | [CVE-2014-9637](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-9637) | NA |
-| openssl | [CVE-2015-1788](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-1788) | NA |
-| gnutls | [CVE-2014-8564](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8564) | NA |
+| bash | [CVE-2014-6277](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-6277) | NA |
+| bash | [CVE-2014-6278](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-6278) | [scanner](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/http/apache_mod_cgi_bash_env.rb),[exploit1](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/apache_mod_cgi_bash_env_exec.rb),[exploit2](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/cups_bash_env_exec.rb) |
+| libjpeg | [CVE-2013-6629](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6629) | NA |
+| libpng | [CVE-2014-9495](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9495) | NA |
+| BIND | [CVE-2015-5477](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5477) | NA |
+| Xerces-C | [CVE-2015-0252](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0252) | NA |
+| ImageIO | [CVE-2015-5781](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5781) | NA |
+| ImageIO | [CVE-2015-5782](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5782) | NA |
+| libtiff | [CVE-2014-8127](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8127) | NA |
+| libtiff | [CVE-2014-8128](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8128) | NA |
+| libtiff | [CVE-2014-8129](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8129) | NA |
+| firefox | [CVE-2014-1564](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1564) | NA |
+| firefox | [CVE-2014-1580](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1580) | NA |
+| firefox | [CVE-2014-8637](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8637) | NA |
+| flash | [CVE-2015-0329](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0329) | NA |
+| flash | [CVE-2015-0323](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0323) | NA |
+| mutt | [CVE-2014-9116](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9116) | NA |
+| gnutls | [CVE-2014-8564](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8564) | NA |
+| clamav | [CVE-2015-1463](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1463) | NA |
+| X.org | [CVE-2015-1803](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1803) | NA |
+| X.org | [CVE-2015-1803](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1803) | NA |
+| libwmf | [CVE-2015-0848](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0848) | NA |
+| libwmf | [CVE-2015-4695](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4695) | NA |
+| libwmf | [CVE-2015-4696](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4696) | NA |
+| tidy | [CVE-2015-5522](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5522) | NA |
+| tidy | [CVE-2015-5523](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5523) | NA |
+| patch | [CVE-2014-9637](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9637) | NA |
+| openssl | [CVE-2015-1788](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1788) | NA |
+| gnutls | [CVE-2014-8564](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8564) | NA |
 
 ## Contact
 All CVE updates are managed through any of three methods: github issues tracking, email
