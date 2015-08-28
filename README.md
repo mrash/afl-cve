@@ -17,16 +17,19 @@ were required to disclose such techniques. Further, most security researchers do
 acknowledge AFL in some form (twitter post, afl-users mailing list, etc.) when
 it finds a bug, and `afl-cve` attempts to track this more formally.
 
+Also, the `afl-fuzz` website does a great job of tracking *bugs* found by AFL.
+But not all bugs get assigned a CVE, and hence there is a need to specifically
+track those that do because having a CVE is at least a tacit acknowledgment of
+potential exploitability. So, the bugs AFL has found are therefore frequently
+*important* for anyone concerned about security.
+
 ## Fuzzing Revisited
 AFL has discovered a huge number of bugs in all sorts of projects from compilers
-to image processing libraries. Many of these bugs have been assigned a CVE number,
-and this is at least a tacit acknowledgment of potential exploitability. So, the
-bugs AFL has found are therefore frequently *important* for anyone concerned about
-security. AFL seems to be succeeding where other fuzzers have failed, or at least
-not been generally embraced or made operational by the security community for
-whatever reason. Another way to see this is to try to determine which fuzzer has
-the most CVE's. Is there a different fuzzing project that comes close to AFL in
-terms of the number of vulnerabilities found? It would be instructive to see
+to image processing libraries. AFL seems to be succeeding where other fuzzers have
+failed, or at least not been generally embraced or made operational by the security
+community for whatever reason. Another way to see this is to try to determine which
+fuzzer has the most CVE's. Is there a different fuzzing project that comes close to
+AFL in terms of the number of vulnerabilities found? It would be instructive to see
 which fuzzer comes in second place and by how much.
 
 ## The Vulnerabilities
