@@ -23,7 +23,7 @@ to image processing libraries. Many of these bugs have been assigned a CVE numbe
 and this is at least a tacit acknowledgment of potential exploitability. So, the
 bugs AFL has found are therefore frequently *important* for anyone concerned about
 security. AFL seems to be succeeding where other fuzzers have failed, or at least
-not been generally embraced or operationalized by the security community for
+not been generally embraced or made operational by the security community for
 whatever reason. Another way to see this is to try to determine which fuzzer has
 the most CVE's. Is there a different fuzzing project that comes close to AFL in
 terms of the number of vulnerabilities found? It would be instructive to see
