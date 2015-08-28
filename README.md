@@ -83,6 +83,6 @@ to include any CVE that is not included below:
 | Qt | [CVE-2015-1860](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1860) | NA |
 
 ## Contact
-All CVE updates are managed through any of three methods: github issues tracking, email
-contact (michael.rash_AT_gmail.com), or reaching me through
-Twitter ([@michaelrash](https://twitter.com/michaelrash)).
+All updates to the above list of CVE's are managed through any of three methods:
+github issues tracking, email contact (michael.rash_AT_gmail.com), or reaching me
+through Twitter ([@michaelrash](https://twitter.com/michaelrash)).
