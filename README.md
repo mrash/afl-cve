@@ -57,8 +57,9 @@ to include any CVE that is not included below:
 | clamav | [CVE-2015-2170](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2170) | NA |
 | clamav | [CVE-2015-2221](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2221) | NA |
 | clamav | [CVE-2015-2222](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2222) | NA |
+| X.org | [CVE-2015-1802](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1802) | NA |
 | X.org | [CVE-2015-1803](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1803) | NA |
-| X.org | [CVE-2015-1803](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1803) | NA |
+| X.org | [CVE-2015-1804](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1804) | NA |
 | libwmf | [CVE-2015-0848](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0848) | NA |
 | libwmf | [CVE-2015-4695](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4695) | NA |
 | libwmf | [CVE-2015-4696](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4696) | NA |
