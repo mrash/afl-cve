@@ -75,6 +75,9 @@ to include any CVE that is not included below:
 | libmspack | [CVE-2015-4470](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4470) | NA |
 | libmspack | [CVE-2015-4471](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4471) | NA |
 | libmspack | [CVE-2015-4472](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4472) | NA |
+| Qt | [CVE-2015-1858](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1858) | NA |
+| Qt | [CVE-2015-1859](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1859) | NA |
+| Qt | [CVE-2015-1860](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1860) | NA |
 
 ## Contact
 All CVE updates are managed through any of three methods: github issues tracking, email
