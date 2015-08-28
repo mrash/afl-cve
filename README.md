@@ -81,6 +81,7 @@ to include any CVE that is not included below:
 | Qt | [CVE-2015-1858](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1858) | NA |
 | Qt | [CVE-2015-1859](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1859) | NA |
 | Qt | [CVE-2015-1860](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1860) | NA |
+| unace | [CVE-2015-2063](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2063) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
