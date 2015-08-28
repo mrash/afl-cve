@@ -52,7 +52,6 @@ to include any CVE that is not included below:
 | flash | [CVE-2015-0329](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0329) | NA |
 | flash | [CVE-2015-0323](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0323) | NA |
 | mutt | [CVE-2014-9116](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9116) | NA |
-| gnutls | [CVE-2014-8564](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8564) | NA |
 | clamav | [CVE-2015-1463](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1463) | NA |
 | clamav | [CVE-2015-2170](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2170) | NA |
 | clamav | [CVE-2015-2221](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2221) | NA |
