@@ -84,6 +84,13 @@ to include any CVE that is not included below:
 | unace | [CVE-2015-2063](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2063) | NA |
 | ARJ | [CVE-2015-2782](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2782) | NA |
 | t1utils | [CVE-2015-3905](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3905) | NA |
+| Android (libstagefright) | [CVE-2015-1538](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1538) | NA |
+| Android (libstagefright) | [CVE-2015-1539](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1539) | NA |
+| Android (libstagefright) | [CVE-2015-3824](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3824) | NA |
+| Android (libstagefright) | [CVE-2015-3826](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3826) | NA |
+| Android (libstagefright) | [CVE-2015-3827](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3827) | NA |
+| Android (libstagefright) | [CVE-2015-3828](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3828) | NA |
+| Android (libstagefright) | [CVE-2015-3829](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3829) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
