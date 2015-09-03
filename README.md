@@ -92,6 +92,7 @@ to include any CVE that is not included below:
 | Android (libstagefright) | [CVE-2015-3827](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3827) | NA |
 | Android (libstagefright) | [CVE-2015-3828](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3828) | NA |
 | Android (libstagefright) | [CVE-2015-3829](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3829) | NA |
+| antiword | [CVE-2014-8123](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8123) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
