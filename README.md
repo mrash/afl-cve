@@ -95,6 +95,8 @@ to include any CVE that is not included below:
 | antiword | [CVE-2014-8123](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8123) | NA |
 | ArduinoJson | [CVE-2015-4590](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4590) | NA |
 | CUPS | [CVE-2014-9679](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9679) | NA |
+| Cap'n Proto | [CVE-2015-2310](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2310) | NA |
+| Cap'n Proto | [CVE-2015-2312](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2312) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
