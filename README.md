@@ -98,6 +98,8 @@ to include any CVE that is not included below:
 | Cap'n Proto | [CVE-2015-2310](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2310) | NA |
 | Cap'n Proto | [CVE-2015-2312](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2312) | NA |
 | libtasn1 | [CVE-2015-3622](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3622) | NA |
+| UnRTF | [CVE-2014-9274](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9275) | NA |
+| UnRTF | [CVE-2014-9275](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9275) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
