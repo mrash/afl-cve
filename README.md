@@ -105,6 +105,8 @@ to include any CVE that is not included below:
 | unzoo | [CVE-2015-1845](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1845), [Red Hat Advisory](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2015-1845) | NA |
 | unzoo | [CVE-2015-1846](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1845), [Red Hat Advisory](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2015-1846) | NA |
 | Ghostscript | [CVE-2015-3228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1845), [Red Hat Advisory](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2015-3228) | NA |
+| GnuPG | [CVE-2015-1606](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1606) | NA |
+| GnuPG | [CVE-2015-1607](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1607) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
