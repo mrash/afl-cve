@@ -107,6 +107,7 @@ to include any CVE that is not included below:
 | Ghostscript | [CVE-2015-3228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1845), [Red Hat Advisory](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2015-3228) | NA |
 | GnuPG | [CVE-2015-1606](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1606) | NA |
 | GnuPG | [CVE-2015-1607](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1607) | NA |
+| libksba | [CVE-2014-9087](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9087) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
