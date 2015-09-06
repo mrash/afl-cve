@@ -51,6 +51,7 @@ to include any CVE that is not included below:
 | libtiff | [CVE-2014-8127](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8127) | NA |
 | libtiff | [CVE-2014-8128](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8128) | NA |
 | libtiff | [CVE-2014-8129](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8129) | NA |
+| libtiff | [CVE-2014-8130](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8130), [Debian Advisory](https://security-tracker.debian.org/tracker/CVE-2014-8130) | NA |
 | firefox | [CVE-2014-1564](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1564) | NA |
 | firefox | [CVE-2014-1580](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1580) | NA |
 | firefox | [CVE-2014-8637](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8637) | NA |
@@ -101,7 +102,6 @@ to include any CVE that is not included below:
 | libtasn1 | [CVE-2015-3622](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3622) | NA |
 | UnRTF | [CVE-2014-9274](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9275) | NA |
 | UnRTF | [CVE-2014-9275](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9275) | NA |
-| tiff | [CVE-2014-8130](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8130), [Debian Advisory](https://security-tracker.debian.org/tracker/CVE-2014-8130) | NA |
 | unzip | [CVE-2015-1315](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1315), [Debian Advisory](https://security-tracker.debian.org/tracker/CVE-2015-1315) | NA |
 | unzoo | [CVE-2015-1845](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1845), [Red Hat Advisory](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2015-1845) | NA |
 | unzoo | [CVE-2015-1846](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1845), [Red Hat Advisory](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2015-1846) | NA |
