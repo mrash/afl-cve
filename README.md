@@ -111,6 +111,7 @@ to include any CVE that is not included below:
 | libksba | [CVE-2014-9087](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9087) | NA |
 | Microsoft Windows | [2014-6355](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6355) | NA |
 | Microsoft Windows | [2015-0061](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2015-0061) | NA |
+| Antiword | [CVE-2014-8123](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8123) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
