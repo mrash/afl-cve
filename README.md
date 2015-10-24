@@ -111,6 +111,7 @@ to include any CVE that is not included below:
 | libksba | [CVE-2014-9087](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9087) | NA |
 | Microsoft Windows | [CVE-2014-6355](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-6355) | NA |
 | Microsoft Windows | [CVE-2015-0061](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0061) | NA |
+| NTP | [CVE-2015-7855](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7855) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
