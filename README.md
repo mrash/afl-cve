@@ -115,6 +115,7 @@ to include any CVE that is not included below:
 | libxml2 | [CVE-2015-7941](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7941) | NA |
 | libxml2 | [CVE-2015-8035](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8035) | NA |
 | PuTTY | [CVE-2015-5309](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5309) | NA |
+| PowerDNS | [CVE-2015-5311](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5311) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
