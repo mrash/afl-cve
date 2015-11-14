@@ -72,6 +72,7 @@ to include any CVE that is not included below:
 | tidy | [CVE-2015-5523](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5523) | NA |
 | patch | [CVE-2014-9637](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9637) | NA |
 | openssl | [CVE-2015-1788](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1788) | NA |
+| openssl | [CVE-2015-0288](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0288) | NA |
 | gnutls | [CVE-2014-8564](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8564) | NA |
 | libmspack | [CVE-2014-9556](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9556) | NA |
 | libmspack | [CVE-2014-9732](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9732) | NA |
