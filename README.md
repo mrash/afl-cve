@@ -122,6 +122,7 @@ to include any CVE that is not included below:
 | PowerDNS | [CVE-2015-5311](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5311) | NA |
 | PHP | [CVE-2015-0232](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0232) | NA |
 | pngcrush | [CVE-2015-2158](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2158) | NA |
+| dpkg | [CVE-2015-0860](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0860) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
