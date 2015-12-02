@@ -123,6 +123,7 @@ to include any CVE that is not included below:
 | PHP | [CVE-2015-0232](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0232) | NA |
 | pngcrush | [CVE-2015-2158](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2158) | NA |
 | dpkg | [CVE-2015-0860](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0860) | NA |
+| PCRE | [CVE-2015-8380](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8380) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
