@@ -46,6 +46,7 @@ to include any CVE that is not included below:
 | BIND | [CVE-2015-5722](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5722) | NA |
 | BIND | [CVE-2015-5986](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5986) | NA |
 | Xerces-C | [CVE-2015-0252](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0252) | NA |
+| Xerces-C | [CVE-2016-0729](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0729) | NA |
 | ImageIO | [CVE-2015-5781](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5781) | NA |
 | ImageIO | [CVE-2015-5782](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5782) | NA |
 | libtiff | [CVE-2014-8127](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8127) | NA |
