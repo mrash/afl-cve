@@ -129,6 +129,8 @@ to include any CVE that is not included below:
 | LHA for UNIX | [CVE-2016-1925](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-1925) | NA |
 | libXfont | [CVE-2015-1803](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1803) | NA |
 | libXfont | [CVE-2015-1804](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1804) | NA |
+| imlib2 | [CVE-2014-9771](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9771) | NA |
+| imlib2 | [CVE-2016-3994](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-3994) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
