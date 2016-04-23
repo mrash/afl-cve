@@ -132,6 +132,7 @@ to include any CVE that is not included below:
 | libXfont | [CVE-2015-1804](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1804) | NA |
 | imlib2 | [CVE-2014-9771](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9771) | NA |
 | imlib2 | [CVE-2016-3994](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-3994) | NA |
+| jq | [CVE-2015-8863](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8863) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
