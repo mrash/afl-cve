@@ -133,6 +133,10 @@ to include any CVE that is not included below:
 | imlib2 | [CVE-2014-9771](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9771) | NA |
 | imlib2 | [CVE-2016-3994](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-3994) | NA |
 | jq | [CVE-2015-8863](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8863) | NA |
+| Botan | [CVE-2015-5726](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5726) | NA |
+| Botan | [CVE-2016-2194](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2194) | NA |
+| Botan | [CVE-2016-2195](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2195) | NA |
+| Botan | [CVE-2016-2196](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2196) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
