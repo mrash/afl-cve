@@ -137,6 +137,8 @@ to include any CVE that is not included below:
 | Botan | [CVE-2016-2194](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2194) | NA |
 | Botan | [CVE-2016-2195](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2195) | NA |
 | Botan | [CVE-2016-2196](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2196) | NA |
+| dosfstools | [CVE-2015-8872](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8872) | NA |
+| dosfstools | [CVE-2016-4804](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4804) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
