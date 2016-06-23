@@ -140,6 +140,26 @@ to include any CVE that is not included below:
 | dosfstools | [CVE-2015-8872](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8872) | NA |
 | dosfstools | [CVE-2016-4804](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4804) | NA |
 | Expat | [CVE-2016-0718](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0718) | NA |
+| libarchive | [CVE-2015-8915](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8915) | NA |
+| libarchive | [CVE-2015-8916](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8916) | NA |
+| libarchive | [CVE-2015-8917](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8917) | NA |
+| libarchive | [CVE-2015-8918](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8918) | NA |
+| libarchive | [CVE-2015-8919](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8919) | NA |
+| libarchive | [CVE-2015-8920](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8920) | NA |
+| libarchive | [CVE-2015-8928](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8928) | NA |
+| libarchive | [CVE-2015-8921](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8921) | NA |
+| libarchive | [CVE-2015-8922](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8922) | NA |
+| libarchive | [CVE-2015-8923](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8923) | NA |
+| libarchive | [CVE-2015-8924](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8924) | NA |
+| libarchive | [CVE-2015-8925](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8925) | NA |
+| libarchive | [CVE-2015-8926](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8926) | NA |
+| libarchive | [CVE-2015-8927](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8927) | NA |
+| libarchive | [CVE-2015-8929](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8929) | NA |
+| libarchive | [CVE-2015-8930](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8930) | NA |
+| libarchive | [CVE-2015-8931](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8931) | NA |
+| libarchive | [CVE-2015-8932](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8932) | NA |
+| libarchive | [CVE-2015-8933](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8933) | NA |
+| libarchive | [CVE-2015-8934](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8934) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
