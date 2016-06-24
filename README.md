@@ -160,6 +160,7 @@ to include any CVE that is not included below:
 | libarchive | [CVE-2015-8932](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8932) | NA |
 | libarchive | [CVE-2015-8933](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8933) | NA |
 | libarchive | [CVE-2015-8934](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8934) | NA |
+| libarchive | [CVE-2016-5844](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5844) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
