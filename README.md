@@ -171,6 +171,15 @@ to include any CVE that is not included below:
 | libiberty | [CVE-2016-4492](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4492) | NA |
 | libiberty | [CVE-2016-4493](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4493) | NA |
 | libiberty | [CVE-2016-6131](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6131) | NA |
+| OpenBSD | [CVE-2016-6239](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6239) | NA |
+| OpenBSD | [CVE-2016-6240](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6240) | NA |
+| OpenBSD | [CVE-2016-6241](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6241) | NA |
+| OpenBSD | [CVE-2016-6242](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6242) | NA |
+| OpenBSD | [CVE-2016-6243](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6243) | NA |
+| OpenBSD | [CVE-2016-6244](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6244) | NA |
+| OpenBSD | [CVE-2016-6245](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6245) | NA |
+| OpenBSD | [CVE-2016-6246](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6246) | NA |
+| OpenBSD | [CVE-2016-6247](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6247) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
