@@ -181,6 +181,8 @@ to include any CVE that is not included below:
 | OpenBSD | [CVE-2016-6246](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6246) | NA |
 | OpenBSD | [CVE-2016-6247](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6247) | NA |
 | collectd | [CVE-2016-6254](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6254) | NA |
+| libidn | [CVE-2016-6261](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6261) | NA |
+| libidn | [CVE-2016-6263](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6263) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
