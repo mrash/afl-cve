@@ -122,6 +122,8 @@ to include any CVE that is not included below:
 | libxml2 | [CVE-2015-8241](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8241) | NA |
 | libxml2 | [CVE-2015-8242](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8242) | NA |
 | libxml2 | [CVE-2015-8317](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8317) | NA |
+| libxml2 | [CVE-2016-4658](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4658) | NA |
+| libxml2 | [CVE-2016-5131](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5131) | NA |
 | PuTTY | [CVE-2015-5309](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5309) | NA |
 | PowerDNS | [CVE-2015-5311](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5311) | NA |
 | PHP | [CVE-2015-0232](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0232) | NA |
