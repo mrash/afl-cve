@@ -117,6 +117,7 @@ to include any CVE that is not included below:
 | Microsoft Windows | [CVE-2014-6355](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-6355) | NA |
 | Microsoft Windows | [CVE-2015-0061](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0061) | NA |
 | NTP | [CVE-2015-7855](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7855) | NA |
+| NTP | [CVE-2016-7434](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-7434) | NA |
 | libxml2 | [CVE-2015-7941](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7941) | NA |
 | libxml2 | [CVE-2015-8035](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8035) | NA |
 | libxml2 | [CVE-2015-8241](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8241) | NA |
