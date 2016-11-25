@@ -186,6 +186,31 @@ to include any CVE that is not included below:
 | collectd | [CVE-2016-6254](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6254) | NA |
 | libidn | [CVE-2016-6261](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6261) | NA |
 | libidn | [CVE-2016-6263](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6263) | NA |
+| w3m | [CVE-2016-9422](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9422) | NA |
+| w3m | [CVE-2016-9423](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9423) | NA |
+| w3m | [CVE-2016-9424](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9424) | NA |
+| w3m | [CVE-2016-9425](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9425) | NA |
+| w3m | [CVE-2016-9429](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9429) | NA |
+| w3m | [CVE-2016-9430](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9430) | NA |
+| w3m | [CVE-2016-9431](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9431) | NA |
+| w3m | [CVE-2016-9432](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9432) | NA |
+| w3m | [CVE-2016-9433](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9433) | NA |
+| w3m | [CVE-2016-9434](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9434) | NA |
+| w3m | [CVE-2016-9437](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9437) | NA |
+| w3m | [CVE-2016-9438](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9438) | NA |
+| w3m | [CVE-2016-9439](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9439) | NA |
+| w3m | [CVE-2016-9440](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9440) | NA |
+| w3m | [CVE-2016-9441](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9441) | NA |
+| w3m | [CVE-2016-9443](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9443) | NA |
+| w3m | [CVE-2016-9621](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9621) | NA |
+| w3m | [CVE-2016-9624](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9624) | NA |
+| w3m | [CVE-2016-9625](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9625) | NA |
+| w3m | [CVE-2016-9626](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9626) | NA |
+| w3m | [CVE-2016-9627](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9627) | NA |
+| w3m | [CVE-2016-9629](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9629) | NA |
+| w3m | [CVE-2016-9630](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9630) | NA |
+| w3m | [CVE-2016-9632](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9632) | NA |
+| w3m | [CVE-2016-9633](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9633) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
