@@ -208,7 +208,6 @@ to include any CVE that is not included below:
 | w3m | [CVE-2016-9441](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9441) | NA |
 | w3m | [CVE-2016-9442](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9442) | NA |
 | w3m | [CVE-2016-9443](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9443) | NA |
-| w3m | [CVE-2016-9621](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9621) | NA |
 | w3m | [CVE-2016-9622](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9622) | NA |
 | w3m | [CVE-2016-9623](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9623) | NA |
 | w3m | [CVE-2016-9624](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9624) | NA |
