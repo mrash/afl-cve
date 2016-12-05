@@ -220,6 +220,11 @@ to include any CVE that is not included below:
 | w3m | [CVE-2016-9631](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9631) | NA |
 | w3m | [CVE-2016-9632](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9632) | NA |
 | w3m | [CVE-2016-9633](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9633) | NA |
+| libical | [CVE-2016-5823](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5823) | NA |
+| libical | [CVE-2016-5824](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5824) | NA |
+| libical | [CVE-2016-5825](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5825) | NA |
+| libical | [CVE-2016-5826](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5826) | NA |
+| libical | [CVE-2016-5827](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5827) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
