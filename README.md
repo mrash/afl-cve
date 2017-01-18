@@ -227,6 +227,14 @@ to include any CVE that is not included below:
 | libical | [CVE-2016-5827](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5827) | NA |
 | GNU ed | [CVE-2017-5357](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5357) | NA |
 | Irssi | [CVE-2017-5356](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5356) | NA |
+| JasPer | [CVE-2017-5502](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5502) | NA |
+| JasPer | [CVE-2017-5501](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5501) | NA |
+| JasPer | [CVE-2017-5500](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5500) | NA |
+| JasPer | [CVE-2017-5499](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5499) | NA |
+| JasPer | [CVE-2017-5498](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5498) | NA |
+| JasPer | [CVE-2017-5503](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5503) | NA |
+| JasPer | [CVE-2017-5504](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5504) | NA |
+| JasPer | [CVE-2017-5505](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5505) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
