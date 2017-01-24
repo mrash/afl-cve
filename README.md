@@ -235,6 +235,9 @@ to include any CVE that is not included below:
 | JasPer | [CVE-2017-5503](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5503) | NA |
 | JasPer | [CVE-2017-5504](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5504) | NA |
 | JasPer | [CVE-2017-5505](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5505) | NA |
+| Adobe Reader DC | [CVE-2016-4198](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4198) | NA |
+| Adobe Reader DC | [CVE-2016-6969](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6969) | NA |
+| Adobe Reader DC | [CVE-2016-6978](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6978) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
