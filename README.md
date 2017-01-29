@@ -241,6 +241,10 @@ to include any CVE that is not included below:
 | Adobe Reader DC | [CVE-2016-6978](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6978) | NA |
 | OpenCV | [CVE-2016-1516](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-1516) | NA |
 | OpenCV | [CVE-2016-1517](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-1517) | NA |
+| WavPack | [CVE-2016-10169](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10169) | NA |
+| WavPack | [CVE-2016-10170](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10170) | NA |
+| WavPack | [CVE-2016-10171](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10171) | NA |
+| WavPack | [CVE-2016-10172](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10172) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
