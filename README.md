@@ -166,6 +166,9 @@ to include any CVE that is not included below:
 | libarchive | [CVE-2015-8934](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8934) | NA |
 | libarchive | [CVE-2016-5844](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5844) | NA |
 | libarchive | [CVE-2016-1541](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-1541) | NA |
+| libarchive | [CVE-2016-8687](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8687) | NA |
+| libarchive | [CVE-2016-8688](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8688) | NA |
+| libarchive | [CVE-2016-8689](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8689) | NA |
 | libiberty | [CVE-2016-2226](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2226) | NA |
 | libiberty | [CVE-2016-4487](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4487) | NA |
 | libiberty | [CVE-2016-4488](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4488) | NA |
