@@ -298,6 +298,12 @@ to include any CVE that is not included below:
 | libav | [CVE-2016-9824](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9824) | NA |
 | libav | [CVE-2016-9825](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9825) | NA |
 | libav | [CVE-2016-9826](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9826) | NA |
+| libdwarf | [CVE-2016-8679](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8679) | NA |
+| libdwarf | [CVE-2016-8680](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8680) | NA |
+| libdwarf | [CVE-2016-8681](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8681) | NA |
+| libdwarf | [CVE-2016-9275](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9275) | NA |
+| libdwarf | [CVE-2016-9276](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9276) | NA |
+| libdwarf | [CVE-2016-9558](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9558) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
