@@ -54,6 +54,10 @@ to include any CVE that is not included below:
 | libtiff | [CVE-2014-8128](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8128) | NA |
 | libtiff | [CVE-2014-8129](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8129) | NA |
 | libtiff | [CVE-2014-8130](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8130), [Debian Advisory](https://security-tracker.debian.org/tracker/CVE-2014-8130) | NA |
+| libtiff | [CVE-2016-10092](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10092) | NA |
+| libtiff | [CVE-2016-10093](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10093) | NA |
+| libtiff | [CVE-2016-10094](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10094) | NA |
+| libtiff | [CVE-2016-10095](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10095) | NA |
 | firefox | [CVE-2014-1564](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1564) | NA |
 | firefox | [CVE-2014-1580](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1580) | NA |
 | firefox | [CVE-2014-8637](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8637) | NA |
