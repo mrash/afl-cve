@@ -245,6 +245,8 @@ to include any CVE that is not included below:
 | WavPack | [CVE-2016-10170](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10170) | NA |
 | WavPack | [CVE-2016-10171](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10171) | NA |
 | WavPack | [CVE-2016-10172](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10172) | NA |
+| mp3splt | [CVE-2017-5665](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5665) | NA |
+| mp3splt | [CVE-2017-5666](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5666) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
