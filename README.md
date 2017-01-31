@@ -304,6 +304,13 @@ to include any CVE that is not included below:
 | libdwarf | [CVE-2016-9275](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9275) | NA |
 | libdwarf | [CVE-2016-9276](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9276) | NA |
 | libdwarf | [CVE-2016-9558](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9558) | NA |
+| libming | [CVE-2016-9264](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9264) | NA |
+| libming | [CVE-2016-9265](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9265) | NA |
+| libming | [CVE-2016-9266](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9266) | NA |
+| libming | [CVE-2016-9827](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9827) | NA |
+| libming | [CVE-2016-9828](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9828) | NA |
+| libming | [CVE-2016-9829](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9829) | NA |
+| libming | [CVE-2016-9831](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9831) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
