@@ -315,6 +315,7 @@ to include any CVE that is not included below:
 | libming | [CVE-2016-9828](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9828) | NA |
 | libming | [CVE-2016-9829](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9829) | NA |
 | libming | [CVE-2016-9831](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9831) | NA |
+| libwmf | [CVE-2016-9011](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9011) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
