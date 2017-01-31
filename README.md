@@ -283,6 +283,21 @@ to include any CVE that is not included below:
 | GraphicsMagick | [CVE-2016-8682](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8682) | NA |
 | GraphicsMagick | [CVE-2016-8683](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8683) | NA |
 | GraphicsMagick | [CVE-2016-8684](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8684) | NA |
+| libav | [CVE-2015-5479](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5479) | NA |
+| libav | [CVE-2016-6832](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6832) | NA |
+| libav | [CVE-2016-7393](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-7393) | NA |
+| libav | [CVE-2016-7424](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-7424) | NA |
+| libav | [CVE-2016-7477](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-7477) | NA |
+| libav | [CVE-2016-7499](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-7499) | NA |
+| libav | [CVE-2016-8676](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8676) | NA |
+| libav | [CVE-2016-9819](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9819) | NA |
+| libav | [CVE-2016-9820](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9820) | NA |
+| libav | [CVE-2016-9821](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9821) | NA |
+| libav | [CVE-2016-9822](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9822) | NA |
+| libav | [CVE-2016-9823](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9823) | NA |
+| libav | [CVE-2016-9824](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9824) | NA |
+| libav | [CVE-2016-9825](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9825) | NA |
+| libav | [CVE-2016-9826](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9826) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
