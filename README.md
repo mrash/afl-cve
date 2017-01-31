@@ -316,6 +316,18 @@ to include any CVE that is not included below:
 | libming | [CVE-2016-9829](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9829) | NA |
 | libming | [CVE-2016-9831](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9831) | NA |
 | libwmf | [CVE-2016-9011](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9011) | NA |
+| Potrace | [CVE-2016-8685](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8685) | NA |
+| Potrace | [CVE-2016-8686](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8686) | NA |
+| Potrace | [CVE-2016-8694](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8694) | NA |
+| Potrace | [CVE-2016-8695](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8695) | NA |
+| Potrace | [CVE-2016-8696](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8696) | NA |
+| Potrace | [CVE-2016-8697](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8697) | NA |
+| Potrace | [CVE-2016-8698](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8698) | NA |
+| Potrace | [CVE-2016-8699](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8699) | NA |
+| Potrace | [CVE-2016-8700](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8700) | NA |
+| Potrace | [CVE-2016-8701](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8701) | NA |
+| Potrace | [CVE-2016-8702](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8702) | NA |
+| Potrace | [CVE-2016-8703](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8703) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
