@@ -328,6 +328,7 @@ to include any CVE that is not included below:
 | Potrace | [CVE-2016-8701](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8701) | NA |
 | Potrace | [CVE-2016-8702](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8702) | NA |
 | Potrace | [CVE-2016-8703](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8703) | NA |
+| MuPDF | [CVE-2016-8674](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8674) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
