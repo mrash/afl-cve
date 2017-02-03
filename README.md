@@ -275,6 +275,7 @@ to include any CVE that is not included below:
 | WavPack | [CVE-2016-10172](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10172) | NA |
 | mp3splt | [CVE-2017-5665](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5665) | NA |
 | mp3splt | [CVE-2017-5666](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5666) | NA |
+| mp3splt | [CVE-2017-5851](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5851) | NA |
 | ImageMagick | [CVE-2016-8677](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8677) | NA |
 | ImageMagick | [CVE-2016-8678](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8678) | NA |
 | ImageMagick | [CVE-2016-8862](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8862) | NA |
