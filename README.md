@@ -333,6 +333,11 @@ to include any CVE that is not included below:
 | PoDoFo | [CVE-2017-5853](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5853) | NA |
 | PoDoFo | [CVE-2017-5854](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5854) | NA |
 | PoDoFo | [CVE-2017-5855](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5855) | NA |
+| GStreamer | [CVE-2016-10198](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10198) | NA |
+| GStreamer | [CVE-2016-10199](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10199) | NA |
+| GStreamer | [CVE-2017-5840](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5840) | NA |
+| GStreamer | [CVE-2017-5844](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5844) | NA |
+| GStreamer | [CVE-2017-5846](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5846) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
