@@ -333,6 +333,7 @@ to include any CVE that is not included below:
 | PoDoFo | [CVE-2017-5853](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5853) | NA |
 | PoDoFo | [CVE-2017-5854](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5854) | NA |
 | PoDoFo | [CVE-2017-5855](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5855) | NA |
+| PoDoFo | [CVE-2017-5886](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5886) | NA |
 | GStreamer | [CVE-2016-10198](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10198) | NA |
 | GStreamer | [CVE-2016-10199](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10199) | NA |
 | GStreamer | [CVE-2017-5840](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5840) | NA |
