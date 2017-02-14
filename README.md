@@ -339,6 +339,13 @@ to include any CVE that is not included below:
 | GStreamer | [CVE-2017-5840](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5840) | NA |
 | GStreamer | [CVE-2017-5844](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5844) | NA |
 | GStreamer | [CVE-2017-5846](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5846) | NA |
+| ZZIPlib | [CVE-2017-5974](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5974) | NA |
+| ZZIPlib | [CVE-2017-5975](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5975) | NA |
+| ZZIPlib | [CVE-2017-5976](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5976) | NA |
+| ZZIPlib | [CVE-2017-5977](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5977) | NA |
+| ZZIPlib | [CVE-2017-5978](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5978) | NA |
+| ZZIPlib | [CVE-2017-5980](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5980) | NA |
+| ZZIPlib | [CVE-2017-5981](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5981) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
