@@ -346,6 +346,7 @@ to include any CVE that is not included below:
 | ZZIPlib | [CVE-2017-5978](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5978) | NA |
 | ZZIPlib | [CVE-2017-5980](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5980) | NA |
 | ZZIPlib | [CVE-2017-5981](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5981) | NA |
+| glibc | [CVE-2015-8985](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8985) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
