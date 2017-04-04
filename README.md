@@ -349,6 +349,9 @@ to include any CVE that is not included below:
 | glibc | [CVE-2015-8985](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8985) | NA |
 | GDK-PixBuf | [CVE-2017-6312](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6312) | NA |
 | GDK-PixBuf | [CVE-2017-6311](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6311) | NA |
+| curl | [CVE-2015-3145](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3145) | NA |
+| curl | [CVE-2015-3144](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3144) | NA |
+| curl | [CVE-2017-7407](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7407) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
