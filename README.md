@@ -132,6 +132,7 @@ to include any CVE that is not included below:
 | PuTTY | [CVE-2015-5309](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5309) | NA |
 | PowerDNS | [CVE-2015-5311](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5311) | NA |
 | PHP | [CVE-2015-0232](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0232) | NA |
+| PHP | [CVE-2017-5340](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5340) | NA |
 | pngcrush | [CVE-2015-2158](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2158) | NA |
 | dpkg | [CVE-2015-0860](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0860) | NA |
 | PCRE | [CVE-2015-8380](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8380) | NA |
