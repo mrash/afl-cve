@@ -354,6 +354,7 @@ to include any CVE that is not included below:
 | curl | [CVE-2015-3144](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3144) | NA |
 | curl | [CVE-2017-7407](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7407) | NA |
 | gnulib | [CVE-2017-7476](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7476) | NA |
+| Cairo | [CVE-2017-7475](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7475) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
