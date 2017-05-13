@@ -234,6 +234,7 @@ to include any CVE that is not included below:
 | libical | [CVE-2016-5827](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5827) | NA |
 | GNU ed | [CVE-2017-5357](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5357) | NA |
 | Irssi | [CVE-2017-5356](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5356) | NA |
+| Irssi | [CVE-2017-5193](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5193) | NA |
 | JasPer | [CVE-2016-8690](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8690) | NA |
 | JasPer | [CVE-2016-8691](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8691) | NA |
 | JasPer | [CVE-2016-8692](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8692) | NA |
