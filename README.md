@@ -330,6 +330,7 @@ to include any CVE that is not included below:
 | Potrace | [CVE-2016-8702](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8702) | NA |
 | Potrace | [CVE-2016-8703](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8703) | NA |
 | MuPDF | [CVE-2016-8674](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8674) | NA |
+| MuPDF | [CVE-2017-7264](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7264) | NA |
 | PoDoFo | [CVE-2015-8981](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8981) | NA |
 | PoDoFo | [CVE-2017-5852](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5852) | NA |
 | PoDoFo | [CVE-2017-5853](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5853) | NA |
