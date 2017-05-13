@@ -357,6 +357,17 @@ to include any CVE that is not included below:
 | curl | [CVE-2017-7407](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7407) | NA |
 | gnulib | [CVE-2017-7476](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7476) | NA |
 | Cairo | [CVE-2017-7475](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7475) | NA |
+| audiofile | [CVE-2017-6829](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6829) | NA |
+| audiofile | [CVE-2017-6830](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6830) | NA |
+| audiofile | [CVE-2017-6831](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6831) | NA |
+| audiofile | [CVE-2017-6832](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6832) | NA |
+| audiofile | [CVE-2017-6833](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6833) | NA |
+| audiofile | [CVE-2017-6834](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6834) | NA |
+| audiofile | [CVE-2017-6835](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6835) | NA |
+| audiofile | [CVE-2017-6836](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6836) | NA |
+| audiofile | [CVE-2017-6837](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6837) | NA |
+| audiofile | [CVE-2017-6838](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6838) | NA |
+| audiofile | [CVE-2017-6839](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6839) | NA |
 
 ## Contact
 All updates to the above list of CVE's are managed through any of three methods:
