@@ -285,6 +285,7 @@ to include any CVE that is not included below:
 | ImageMagick | [CVE-2016-8866](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8866) | NA |
 | ImageMagick | [CVE-2016-9556](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9556) | NA |
 | ImageMagick | [CVE-2016-9559](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9559) | NA |
+| ImageMagick | [CVE-2017-12983](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-12983) | NA |
 | GraphicsMagick | [CVE-2016-7449](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-7449) | NA |
 | GraphicsMagick | [CVE-2016-8682](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8682) | NA |
 | GraphicsMagick | [CVE-2016-8683](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8683) | NA |
